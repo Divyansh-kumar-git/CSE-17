@@ -1,0 +1,19 @@
+#div1{
+    height: 255px;
+    font-size: large;
+    background-color: pink;
+    border: dashed;
+}
+#div2{
+    height: 250px;
+    width: 55px;
+    border: solid;
+    border-color: red;
+    border-width: 55px;
+    border-radius: 38px;
+}
+h1{
+    border: double;
+    background-color: aqua;
+    text-align: center;
+}
